@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/5ab6070e-5a96-4d3d-a798-76931f48f98e.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/react-sms?orgId=666444378491)  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
